@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         val userData=UserData(this)
         userData.getPhone()
         println("hello")
-        print("iam ashin")
+        print("iam ashindas")
 
         println("Experimental")
         println("how are you")
