@@ -9,8 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val userData=UserData(this)
         userData.getPhone()
-        println("hello")
-        println("Experimental")
-        println("how are you")
+
     }
 }
